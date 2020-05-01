@@ -1,5 +1,7 @@
 # Smarty testing playground
 
+## This is a fork demonstrating this bug: See https://github.com/smarty-php/smarty/issues/549
+
 To get into the sandbox of interest:
 
 1. Clone repo.
